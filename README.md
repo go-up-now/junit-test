@@ -1,3 +1,5 @@
+[![JUnit test with CI | © 2024 by nghia.anh](https://github.com/go-up-now/junit-test/actions/workflows/junit-test-ci.yml/badge.svg)](https://github.com/go-up-now/junit-test/actions/workflows/junit-test-ci.yml)
+
 # Welcome to Junit-Test Repository
 
 ### You will find in this repo the following stuff:
